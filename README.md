@@ -2,7 +2,7 @@
 practice task
 
 # Система мониторинга KPI
-## Запуск (macOS, VS Code)
+## Запуск
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
